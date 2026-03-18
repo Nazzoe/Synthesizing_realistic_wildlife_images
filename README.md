@@ -42,11 +42,3 @@ Ridwan Ibidunni, Auwal Ibrahim, Obi Chinyere Mary, Samson Oguntuwase, Dominion A
 4. International Union for Conservation of Nature. (2024). The IUCN Red List of Threatened Species.
 5. Hugging Face. (2024). DreamBooth Documentation.
 6. Runway. (2022). Stable Diffusion v1.5.
-
-## Date
-
-27/7/2024
-
----
-
-This README provides a concise overview of your project, highlighting its key aspects, methodology, results, and future directions. You may want to adjust or expand certain sections based on your specific needs or add additional information such as installation instructions, usage examples, or licensing details.
